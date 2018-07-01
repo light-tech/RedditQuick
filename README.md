@@ -3,6 +3,8 @@ RedditQuick - Lightech Unofficial Reddit Client
 
 Quickly read Reddit posts. This text-only client saves you significant amount of data, consume about 10MB-20MB of RAM at runtime as opposed to (200MB when viewed in Edge), thus save battery.
 
+You can download this app on [Microsoft Store](https://www.microsoft.com/store/apps/9NG2S08KMLWK) or with the Store app ms-windows-store://pdp/?productid=9NG2S08KMLWK.
+
 This client implements infinite scrolling that is missing from the Reddit website.
 
 This application also illustrates the usage of our UWP utilities library [LUwpUtilities](https://github.com/light-tech/LUwpUtilities.git) to quickly build UWP application.
